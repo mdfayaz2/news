@@ -1,5 +1,5 @@
 {
-  "homepa"
+  "homepage": "https://mdfayaz2.github.io/news",
   "name": "news",
   "version": "0.1.0",
   "private": true,
@@ -9,7 +9,11 @@
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "react-youtube": "^10.1.0",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -37,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
